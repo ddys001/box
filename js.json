@@ -1,5 +1,5 @@
 {
-  "spider":"./jar/w.jar",
+  "spider":"./w.jar",
 
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2RkeXMuamFzb24wNTc1LnJlcGwuY28vcHVibGljL2xpdmUvemhpYm95dWFuJTIwLnR4dA=="]}]}],
   
